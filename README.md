@@ -1,1 +1,1 @@
-En este apartado anexo los códigos de los métodos de calibración de pinzas ópticas que realice para obtener los resultados en la elaboración de mi tesis de Maestría. 
+En este apartado anexo los códigos de los métodos de calibración de pinzas ópticas que realicé para obtener los resultados en la elaboración de mi tesis de Maestría. Se muestran los códigos de los métodos: Análisis del potencial, equipartición, desplazamiento cuadrático medio (MSD), Función de Autocorrelación (ACF), FORMA, e inferencia Bayesiana.  
